@@ -1,0 +1,2 @@
+cd to folder
+npm run dev
